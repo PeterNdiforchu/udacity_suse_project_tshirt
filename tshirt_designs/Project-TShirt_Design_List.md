@@ -34,3 +34,9 @@ Submission
 * **Designer Names:**Rishabh Aggarwal**
 * **Designer Slack ID:** *Rishabh.Aggarwal*
 
+Submission
+
+* **Title:** *AfroCloudGuru*
+* *Filename:** [Sample design](https://pin.it/zW4BV9Z)
+* **Designer Names: **Peter Ndiforchu**
+* **Designer Slack ID:** *Peter.Ndiforchu*
